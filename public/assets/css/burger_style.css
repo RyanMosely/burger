@@ -10,3 +10,7 @@ color: #ff0000;
 button{
     background-color: #3d78b1;
 }
+
+.devoured{
+    text-decoration: underline;
+}
